@@ -23,5 +23,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yigit-toq&show_icons=true&locale=en&layout=compact" alt="yigit-toq" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yigit-toq&show_icons=true&locale=en" alt="yigit-toq" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yigit-toq&" alt="yigit-toq" /></p>
