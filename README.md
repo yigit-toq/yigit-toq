@@ -23,3 +23,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yigit-toq&show_icons=true&locale=en&layout=compact" alt="yigit-toq" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yigit-toq&show_icons=true&locale=en" alt="yigit-toq" /></p>
+
+![snake gif](https://github.com/yigit-toq/yigit-toq/blob/output/github-contribution-grid-snake.gif)
