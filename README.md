@@ -11,14 +11,6 @@
 
 - 📫 How to reach me **yigit.toq@gmail.com**
 
-## **Links:**
-<p align="left">
-<a href="https://www.linkedin.com/in/yigit-top/" target="_blank" rel="noreferrer">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/120px-LinkedIn_icon.svg.png" alt="linkedin" width="50" height="50"/> </a>
-<a href="https://yigit-toq.itch.io/" target="_blank" rel="noreferrer">
-<img src="https://static.itch.io/images/itchio-textless-black.svg" alt="itchio" width="50" height="50"/> </a>
-</p>
-
 ## **languages and tools:**
 <p align="left">
 <a target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="60" height="60"/> </a>
