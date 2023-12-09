@@ -17,8 +17,6 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/120px-LinkedIn_icon.svg.png" alt="linkedin" width="50" height="50"/> </a>
 <a href="https://yigit-toq.itch.io/" target="_blank" rel="noreferrer">
 <img src="https://static.itch.io/images/itchio-textless-black.svg" alt="itchio" width="50" height="50"/> </a>
-<a href="https://bionluk.com/yigitr" target="_blank" rel="noreferrer">
-<img src="https://gcdn.bionluk.com/site/general/bionluk_logo_gk.png" alt="bionluk" width="140" height="40"/> </a>
 </p>
 
 ## **languages and tools:**
