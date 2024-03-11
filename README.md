@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yigit-toq&label=Profile%20views&color=0e75b6&style=flat" alt="yigit-toq" /> </p>
 
-<img align="right" alt="Coding" width="400" 
+<img align="right" alt="Coding" width="400" autoplay="true"
 src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmpweHVpMXprdnV5NWw4empxMzhsa2dnbDJlYnFyYXB3bXRyM204MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
 
 - 🔭 I’m currently working on **Minitalk**
