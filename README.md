@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="200" autoplay="true"
 src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmpweHVpMXprdnV5NWw4empxMzhsa2dnbDJlYnFyYXB3bXRyM204MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
 
-- 🔭 I’m currently working on **CUB3D**
+- 🔭 I’m currently working on **cub3D**
 
 - 🌱 I’m currently learning **C**
 
