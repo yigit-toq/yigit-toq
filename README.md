@@ -6,7 +6,7 @@ src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmpweHVpMXprdnV5NWw4empxM
 
 - 🔭 I’m currently working on [**ft_irc**](https://github.com/yigit-toq/42_Cursus/tree/05-ft_irc)
 
-- 🌱 I’m currently learning **C**
+- 🌱 I’m currently learning **C++**
 
 - 💬 Ask me about **developing games with unity**
 
