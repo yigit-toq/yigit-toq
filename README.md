@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="200" autoplay="true"
 src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmpweHVpMXprdnV5NWw4empxMzhsa2dnbDJlYnFyYXB3bXRyM204MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
 
-- 🔭 I’m currently working on [**ft_irc**](https://github.com/yigit-toq/42_Cursus/tree/05-ft_irc)
+- 🔭 I’m currently working on [**inception**](https://github.com/yigit-toq/42_Cursus/tree/05-inception)
 
 - 🌱 I’m currently learning **C++**
 
