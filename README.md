@@ -4,16 +4,6 @@
 <img align="right" alt="Coding" width="200" autoplay="true"
 src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmpweHVpMXprdnV5NWw4empxMzhsa2dnbDJlYnFyYXB3bXRyM204MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
 
-- 🔭 I’m currently working on [**inception**](https://github.com/yigit-toq/42_Cursus/tree/05-inception)
-
-- 🌱 I’m currently learning **C++**
-
-- 💬 Ask me about **developing games with unity**
-
-- 📫 How to reach me **yigit.toq@gmail.com**
-
-- 📄 Know about my experiences [https://yigit.top](https://yigit.top)
-
 ## 🧑‍💻 Current Technical Skills
 
 [![My Skills](https://skillicons.dev/icons?i=c,cs,bash,vscode,visualstudio,unity,html,css,github,git)](https://skillicons.dev)
