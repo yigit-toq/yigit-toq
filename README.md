@@ -41,7 +41,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>💬 Instagram DM Automation</h3>
+      <h3>💬 Instagram DM Bot</h3>
       <p></p>
       <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
       <img src="https://img.shields.io/badge/Instagram%20API-e4405f?style=flat-square&logo=instagram&logoColor=white" />
