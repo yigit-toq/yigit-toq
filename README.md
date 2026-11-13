@@ -90,15 +90,15 @@
 <table>
   <tr>
     <td align="center" width="33%">
-      <a href="https://github.com/yigit-toq/42_Piscine"><b>42_Piscine</b></a><br>
+      <a href="https://github.com/yigit-toq/42-piscine"><b>42_Piscine</b></a><br>
       <sub></sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/yigit-toq/42_Cursus"><b>42_Cursus</b></a><br>
+      <a href="https://github.com/yigit-toq/42-cursus"><b>42_Cursus</b></a><br>
       <sub></sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/yigit-toq/42_Advanced"><b>42_Advanced</b></a><br>
+      <a href="https://github.com/yigit-toq/42-advanced"><b>42_Advanced</b></a><br>
       <sub></sub>
     </td>
   </tr>
