@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,100:7c3aed&height=190&section=header&text=Yi%C4%9Fit%20Top&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Game%20Developer%20%C2%B7%20Software%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" alt="Yiğit Top" />
 
 <p align="center">
-  <a href="https://allbytech.com"><img src="https://img.shields.io/badge/Allby-Tech-7c3aed?style=flat-square"alt="Allby Tech" /></a>
+  <a href="https://allbytech.com"><img src="https://img.shields.io/badge/Allby-Tech-7c3aed?style=flat-square" alt="Allby Tech" /></a>
   <img src="https://img.shields.io/badge/42-Kocaeli-111111?style=flat-square&logo=42&logoColor=white" alt="42Kocaeli" />
   <img src="https://img.shields.io/badge/Gebze-Turkey-e11d48?style=flat-square" alt="Turkey" />
 </p>
@@ -18,7 +18,7 @@
 
 ## 🏢 Building at Allby Tech
 
-<sub>These are client and in-house products, so their repositories are private. Happy to walk you through anyof them.</sub>
+<sub>These are client and in-house products, so their repositories are private. Happy to walk you through any of them.</sub>
 
 <table>
   <tr>
@@ -54,6 +54,33 @@
       <img src="https://img.shields.io/badge/Cloudflare-f38020?style=flat-square&logo=cloudflare&logoColor=white" />
       <br><br>
       <a href="https://allbytech.com"><img src="https://img.shields.io/badge/Visit%20site-7c3aed?style=for-the-badge" /></a>
+    </td>
+  </tr>
+</table>
+
+## 🏆 Hackathons
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🕌 Vakıfname</h3>
+      <sub>42 Türkiye × Vakıf Katılım · KÖK&KOD</sub><br><br>
+      <img src="https://img.shields.io/badge/🥇%201st%20Place-f5b301?style=flat-square" />
+      <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
+      <img src="https://img.shields.io/badge/Fastify-000?style=flat-square&logo=fastify&logoColor=white" />
+      <br><br>
+      <a href="https://github.com/Myxoceph/RootNCode-Hackathon"><img src="https://img.shields.io/badge/Repo-24292f?style=for-the-badge&logo=github" /></a>
+      <a href="https://vagabonds.allbytech.com"><img src="https://img.shields.io/badge/Live%20Demo-7c3aed?style=for-the-badge" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌊 PeerFlow</h3>
+      <sub>Sui Hackathon 2025</sub><br><br>
+      <img src="https://img.shields.io/badge/🥇%201st%20Place-f5b301?style=flat-square" />
+      <img src="https://img.shields.io/badge/Sui-4da2ff?style=flat-square&logo=sui&logoColor=white" />
+      <img src="https://img.shields.io/badge/Move-4da2ff?style=flat-square" />
+      <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb" />
+      <br><br>
+      <a href="https://github.com/Myxoceph/SUI-Hackathon"><img src="https://img.shields.io/badge/Repo-24292f?style=for-the-badge&logo=github" /></a>
     </td>
   </tr>
 </table>
